@@ -6,9 +6,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <img src="developer.gif" alt="coding boy gif" width="300" align='right' />
 
-- 🌱 &nbsp; I’m currently working as a Frontend Developer 
-- 🚀 &nbsp; I want to become a **Full-stack Web Developer**
-- 💬 &nbsp; Ask me about **Front-end Web Development**
+- 🌱 &nbsp; I’m currently working as XAI 
+- 🚀 &nbsp; I am a founder of **Cyforb AI**
+- 💬 &nbsp; Ask me about **Computer Science**
 - ⚡ &nbsp; Fun fact: I'm a lazybone. xD
 "Machine Learning Algorithms" refers to a set of techniques and methodologies used to design and train models that can learn from data and make predictions or decisions without explicit programming. These algorithms are at the core of machine learning, a subset of artificial intelligence (AI) focused on enabling systems to learn and improve from experience automatically.
 
